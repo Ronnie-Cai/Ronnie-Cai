@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Ronnie-Cai/Ronnie-Cai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Ronnie Cai
+Undergraduate Computer Science Student | University of Macau
+
+About Me
+I am a big fan of designing and developing video games. I love creating immersive experiences and bringing creative ideas to the gaming world through code.
